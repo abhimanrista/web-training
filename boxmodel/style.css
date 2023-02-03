@@ -1,0 +1,28 @@
+body{
+    height: 100px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.one{
+background-color: aqua;
+border: 3px solid pink;
+padding: 40px;
+margin: 10px;
+}
+
+.two{
+background: aqua;
+border: 3px solid violet;
+margin-bottom: 10px;
+}
+
+.three{
+    background: purple;
+    border: 3px solid green;
+    width: 250px;
+    padding: 50px;
+    top: 20%;
+    position: relative;
+    left: 40%;
+}

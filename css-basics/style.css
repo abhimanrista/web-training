@@ -1,0 +1,29 @@
+*{
+
+}
+
+/**
+element selector
+**/
+
+h1{
+
+    color: blue;
+}
+
+/**
+class selector
+**/
+
+.BCA{
+    color: red;
+}
+
+/**
+id selector
+**/
+
+#ifu{
+    color :green
+
+}
